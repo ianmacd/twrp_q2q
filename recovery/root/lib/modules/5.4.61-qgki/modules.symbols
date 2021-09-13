@@ -519,6 +519,7 @@ alias symbol:q6asm_stream_media_format_block_aac q6_dlkm
 alias symbol:wlfw_m3_dump_upload_req_ind_msg_v01_ei wlan_firmware_service_v01
 alias symbol:wm_halo_init snd_soc_wm_adsp
 alias symbol:afe_port_get_mad_type q6_dlkm
+alias symbol:sec_input_get_lcd_id sec_common_fn
 alias symbol:q6afe_audio_client_buf_alloc_contiguous q6_dlkm
 alias symbol:afe_register_ext_mclk_cb q6_dlkm
 alias symbol:q6lsm_set_afe_data_format q6_dlkm
